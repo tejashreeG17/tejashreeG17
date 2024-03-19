@@ -6,7 +6,8 @@ I am currently working on data science projects dashboards tool such as powerBI,
 apart from work i like to travel and go for trekking 🌄🌆🛣
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tejashreegaikar/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejashreegaikar/) 
+
 
 
 
